@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/TipCalculator-6thTrainingReactTask/static/css/main.31d6cfe0.css",
+    "main.js": "/TipCalculator-6thTrainingReactTask/static/js/main.b3a1b2f1.js",
+    "index.html": "/TipCalculator-6thTrainingReactTask/index.html",
+    "main.b3a1b2f1.js.map": "/TipCalculator-6thTrainingReactTask/static/js/main.b3a1b2f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b3a1b2f1.js"
+  ]
+}

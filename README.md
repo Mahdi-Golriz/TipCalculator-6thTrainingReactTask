@@ -1,5 +1,5 @@
 # Project Title 
-Accordion Component React application
+Tip Calculator React application
 
 ## Table of contents
 * [About](#about)
@@ -7,7 +7,7 @@ Accordion Component React application
 * [Setup](#setup)
 
 ## About
-- I have started to learn the React through a course from the Udemy instructed by Jonas Schmedtmann. During this course I should develop many training task, projects and applications. This is the 5th task of this course :).
+- I have started to learn the React through a course from the Udemy instructed by Jonas Schmedtmann. During this course I should develop many training task, projects and applications. This is the 6th task of this course :).
 - In this section I learned about:
   * Fundamentals of State Management
   * Lifting Up State

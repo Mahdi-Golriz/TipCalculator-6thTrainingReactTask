@@ -12,7 +12,8 @@ Tip Calculator React application
   * Fundamentals of State Management
   * Lifting Up State
   * Derived State
-  * controlled elements
+  * Controlled elements
+  * Component composition
  
 ## Technologies
 Project is created with:
